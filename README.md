@@ -6,9 +6,9 @@ Hands-on implementation of GenAI engineering concepts built alongside
 ## Progress
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 1 | LLM APIs — Claude + GPT-4o, multi-turn chatbot | 🔄 In Progress |
-| Day 2 | Prompt Engineering + Structured JSON outputs | ⏳ Upcoming |
-| Day 3 | RAG Pipeline — LangChain + ChromaDB | ⏳ Upcoming |
+| Day 1 | LLM APIs — Claude + GPT-4o, multi-turn chatbot | ✅ Complete. |
+| Day 2 | Prompt Engineering + Structured JSON outputs | ✅ Complete. |
+| Day 3 | RAG Pipeline — LangChain + ChromaDB | ✅ Complete. |
 | Day 4 | Agentic AI — Tool use + Human-in-the-loop | ⏳ Upcoming |
 
 ## Stack
